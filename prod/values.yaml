@@ -14,7 +14,7 @@ ingress:
     cert-manager.io/cluster-issuer: letsencrypt-prod
     acme.cert-manager.io/http01-edit-in-place: "true"
   hosts:
-    - host: prod-artemis.aikokul.com
+    - host: aikokul.com
       paths:
         - path: /
           pathType: ImplementationSpecific
