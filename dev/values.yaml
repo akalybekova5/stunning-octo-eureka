@@ -21,4 +21,4 @@ ingress:
   tls: 
    - secretName: dev-artemis-tls
      hosts:
-       - dev-artemis.aikokul.com
+       -dev-artemis.aikokul.com
