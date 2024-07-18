@@ -21,4 +21,4 @@ ingress:
   tls: 
    - secretName: prod-artemis-tls
      hosts:
-       - prod-artemis.aikokul.com
+       - aikokul.com
